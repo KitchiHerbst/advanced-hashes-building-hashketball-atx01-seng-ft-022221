@@ -34,19 +34,19 @@ def game_hash
         :rebounds => , :assists => , :steals => , :blocks => , :slam_dunks => ,
         
         },
-        {:player_name => "Reggie Evans", :number => , :shoe => , :points => ,
+        {:player_name => "Bismack Biyombo", :number => , :shoe => , :points => ,
         :rebounds => , :assists => , :steals => , :blocks => , :slam_dunks => ,
         
         },
-        {:player_name => "Brook Lopez", :number => , :shoe => , :points => ,
+        {:player_name => "DeSagna Diop", :number => , :shoe => , :points => ,
         :rebounds => , :assists => , :steals => , :blocks => , :slam_dunks => ,
         
         },
-        {:player_name => "Mason Plumlee", :number => , :shoe => , :points => ,
+        {:player_name => "Ben Gordon", :number => , :shoe => , :points => ,
         :rebounds => , :assists => , :steals => , :blocks => , :slam_dunks => ,
         
         },
-        {:player_name => "Jason Terry", :number => , :shoe => , :points => ,
+        {:player_name => "Kemba Walker", :number => , :shoe => , :points => ,
         :rebounds => , :assists => , :steals => , :blocks => , :slam_dunks => ,
         
         }
