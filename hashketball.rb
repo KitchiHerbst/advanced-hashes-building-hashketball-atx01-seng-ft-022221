@@ -6,7 +6,7 @@ def game_hash
       :team_name => "Brooklyn Nets",
       :colors => ["Black", "White"],
       :players => [
-        {:player_name => "Alan Anderson", :number => , :shoe => , :points => ,
+        {:player_name => "Alan Anderson", :number => 0 , :shoe => , :points => ,
         :rebounds => , :assists => , :steals => , :blocks => , :slam_dunks => ,
         
         },
